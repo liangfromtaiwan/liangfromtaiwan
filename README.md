@@ -28,6 +28,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liangfromtaiwan)](https://git.io/streak-stats)
 
-<h3>🎧Let's listen to music together</h3>
+<h3>🎧 Let's listen to music together 🎧</h3>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
