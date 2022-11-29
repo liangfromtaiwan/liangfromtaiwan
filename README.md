@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liang</h1>
 <h3 align="center">A passionate frontend developer from Taiwan.</h3>
 
-<img  alt="dance" width="400" hieght="auto" src="https://i.pinimg.com/originals/87/87/b4/8787b48e6e7f084b71cff1fd11cc5e73.gif">
+<img src="https://i.pinimg.com/originals/87/87/b4/8787b48e6e7f084b71cff1fd11cc5e73.gif" alt="todo" width="350" style="max-width: 100%;">
 
 - 🔭 I’m currently working on [flowen](https://flowens.ssc.works)
 
